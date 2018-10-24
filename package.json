@@ -1,0 +1,19 @@
+{
+  "name": "stratiform",
+  "version": "0.1.0",
+  "description": "React components to create stratigraphic columns",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davenquinn/stratiform.git"
+  },
+  "author": "Daven Quinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davenquinn/stratiform/issues"
+  },
+  "homepage": "https://github.com/davenquinn/stratiform#readme"
+}
